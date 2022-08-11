@@ -1,16 +1,3 @@
-'''
-Workshop 3 framework v1.1
-By Jack Seymour
-
-# Follow allong with the written workshop instructions and
-    use this application stub to impliment the functionality.
-
-# Locations marked with TODO: are places that need implimentation.
-
-# The pass command in a stub is used to end a block and continue execution.
-    This is used to define portsion of code structure that are awaiting implimentation.
-    You should remove pass when you impliment the functionality.
-'''
 from donations_pkg.homepage import show_homepage, donate, show_donations
 from donations_pkg.user import login, register
 
